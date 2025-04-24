@@ -1,0 +1,7 @@
+localidad: Dorrao
+provincia: Navarra
+estudios: Matemáticas
+asignatura-preferido: Teoria de Galois
+trabajo: Ingeniero datos
+edad: 29
+
