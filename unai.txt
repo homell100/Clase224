@@ -1,0 +1,6 @@
+localidad: Dorrao
+provincia: Navarra
+estudios: Matemáticas
+trabajo: Ingeniero datos
+edad: 29
+
